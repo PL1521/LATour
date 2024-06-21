@@ -1,6 +1,6 @@
 # LATour
 **An automated tour guide system for LA** <br>
-Applies the A* algorithm to obtain the optimal route going through each point of interest in the stops.txt file.
+Applies the A* algorithm (can also toggle Dijkstra's on) to obtain the optimal route going through each point of interest in the stops.txt file.
 
 **To run the program, copy-paste the following command on terminal (with spaces)**: <br>
 ./(executable name) (path to mapdata.txt) (path to stops.txt)
